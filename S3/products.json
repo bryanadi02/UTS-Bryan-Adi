@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "gambar": "product-images/b1.png",
+    "nama": "Baju Zirah Perang Muslim",
+    "harga": "12.599.000",
+    "ukuran": "L",
+    "contact": "<p> Email:adminsangarshop.com </p> <p> Phone:088996649 </p> <p>Address:Jl.Ahmad Yani No.000 Surabaya </p>"
+  },
+  {
+    "id": 2,
+    "gambar": "product-images/b2.png",
+    "nama": "Seragam Tentara",
+    "harga": "9.200.000",
+    "ukuran": "L",
+    "contact": "<p> Email:kulak.com </p> <p> Phone:082316546 </p> <p>Address:Jl.Sawahan No.74 usbekistan </p>"
+  },
+  {
+    "id": 3,
+    "gambar": "product-images/b3.jpg",
+    "nama": "Baju Muslim",
+    "harga": "570.000",
+    "ukuran": "XL",
+    "contact": "<p> Email:rombeng.com </p> <p> Phone:0895444613 </p> <p>Address:Jl.sehat No.5 Surabaya </p>"
+  },
+  {
+    "id": 4,
+    "gambar": "product-images/b4.jpg",
+    "nama": "Jaket Olahraga ",
+    "harga": "245.000",
+    "ukuran": "M",
+    "contact": "<p> Email:tokokooo.com </p> <p> Phone:0857489314 </p> <p>Address:Jl.runtuh No.10 Surabaya </p>"
+  },
+  {
+    "id": 5,
+    "gambar": "product-images/b5.jpg",
+    "nama": "Seragam PP",
+    "harga": "350.000",
+    "ukuran": "L",
+    "contact": "<p> Email:klambi.com </p> <p> Phone:0846217924 </p> <p>Address:Jl.Seruni No.14 Surabaya </p>"
+  },
+  {
+    "id": 6,
+    "gambar": "product-images/b6.jpg",
+    "nama": "Kostum Power Rangers",
+    "harga": "800.000",
+    "ukuran": "L",
+    "contact": "<p> Email:bossclothes.com </p> <p> Phone:084561799 </p> <p>Address:Jl.Anggrek No.9 Surabaya </p>"
+  }
+]
